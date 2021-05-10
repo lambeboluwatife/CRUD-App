@@ -1,0 +1,29 @@
+{
+  "name": "CRUD-App",
+  "version": "1.0.0",
+  "description": "Creating a simple express application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lambeboluwatife/CRUD-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lambeboluwatife/CRUD-App/issues"
+  },
+  "homepage": "https://github.com/lambeboluwatife/CRUD-App#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^9.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7",
+    "nodemon": "^2.0.7",
+    "uuid": "^8.3.2"
+  }
+}
