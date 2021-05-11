@@ -1,3 +1,4 @@
 module.exports = {
-  database: "mongodb://localhost/CRUD_APP",
+  database:
+    "mongodb+srv://Boluwatife:bholie@data.nvwem.mongodb.net/CRUD_APP?retryWrites=true&w=majority",
 };
